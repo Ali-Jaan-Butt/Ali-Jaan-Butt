@@ -2,6 +2,10 @@
   
 ### About Me:    
 I'm Ali. I have experience in different fields. I'm a Data Scientist. I have created many models related to NLP, in Tensorflow, Keras, Neural Networks etc. I have also don image processing, I have also trained many models. I have done work in tensorflow, LSTM, YOLO etc.
+I've also expertise in Data Engineering.
+I'm Expert in Data Scraping, web scraping, web automation, app scraping, app automation. I have done many projects in these skills.
+I'm also expert in Web Development using Django. I have done many projects in Django.
+I have also expertise in app development and software development.
 
 Currently, I'm running a startup named "AJ innovations". In this startup, I have a team, we are building some of the projects that will be announced after development. Wait for the announcement.
        
@@ -22,11 +26,11 @@ Join me on Whatsapp, if you have any queries or any work, then do contact me.
 
   
 
-### Best frameworks and main libraries for Python3:
+### Best frameworks and main libraries for Python:
 
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV | Django |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/Django/Django-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
 
 
