@@ -11,42 +11,14 @@ Join me on Whatsapp, if you have any queries or any work, then do contact me.
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923201540500)
 
-## Competitions: 🥇
- 
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|vksCTF|top 18%| Solo played |09/2023|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
-
-### Working on: 🚀
-
-- Learning [GO](https://github.com/sammorozov/go_basics_study)
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
-
 
 ## Languages and Tools 
 <div>
 
 ### Languages:
-| Python3 | C | JS | Solidity | GO |
-|----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+| Python | JS |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
   
 
