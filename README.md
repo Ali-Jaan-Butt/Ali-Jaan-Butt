@@ -9,7 +9,7 @@ Currently, I'm running a startup named "AJ innovations". In this startup, I have
 ### Social media: 📡    
 Join me on Whatsapp, if you have any queries or any work, then do contact me.
 
-[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](+923201540500)
+[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923201540500)
 
 ## Competitions: 🥇
  
