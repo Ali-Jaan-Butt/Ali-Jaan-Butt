@@ -1,15 +1,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ali-Jaan-Butt&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+I'm Ali. I have experience in different fields. I'm a Data Scientist. I have created many models related to NLP, in Tensorflow, Keras, Neural Networks etc. I have also don image processing, I have also trained many models. I have done work in tensorflow, LSTM, YOLO etc.
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
+Currently, I'm running a startup named "AJ innovations". In this startup, I have a team, we are building some of the projects that will be announced after development. Wait for the announcement.
        
    
 ### Social media: 📡    
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
+Join me on Whatsapp, if you have any queries or any work, then do contact me.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
+[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](+923201540500)
 
 ## Competitions: 🥇
  
