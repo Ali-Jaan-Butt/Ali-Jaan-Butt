@@ -1,16 +1,50 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ali-Jaan-Butt&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-### About Me:    
-I'm Ali. I have experience in different fields. I'm a Data Scientist. I have created many models related to NLP, in Tensorflow, Keras, Neural Networks etc. I have also don image processing, I have also trained many models. I have done work in tensorflow, LSTM, YOLO etc.
-I've also expertise in Data Engineering.
-I'm Expert in Data Scraping, web scraping, web automation, app scraping, app automation. I have done many projects in these skills.
-I'm also expert in Web Development using Django. I have done many projects in Django.
-I have also expertise in app development and software development.
+# About Me:    
 
-Currently, I'm running a startup named "WorknConnect Innovators". In this startup, I have a team, we are building some of the projects that will be announced after development. Here is the website of our company [WorknConnect Innovators](https://wncinnovators.com)
+## 👋 Hello, I'm Muhammad Ali Jaan
+
+**Founder & Director | Data Scientist | Python Expert | ML & DL Enthusiast**  
+
+Welcome to my GitHub! I'm a passionate tech leader and problem-solver, with expertise spanning **Data Science**, **Machine Learning (ML)**, **Deep Learning (DL)**, and **Web & Mobile Development**.  
+
+---
+
+### 🚀 About Me  
+- **Founder of [WorknConnect](#)** – Bridging the gap between industry and academia through innovative real-world projects.  
+- **Director of WorknConnect Innovators** – Committed to creating collaborative spaces for skill development and innovation.  
+- **Automation & Extraction Expert** – I simplify complex workflows using Python and modern tools.  
+- **Django & Web Development Enthusiast** – From backend magic to building scalable apps, I enjoy solving problems that matter.  
+- **Mobile App Developer** – I craft intuitive mobile experiences to meet real-world challenges.  
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages**: Python, JavaScript, SQL  
+- **Frameworks**: Django, Flask, React Native  
+- **Tools & Libraries**: TensorFlow, Keras, Pandas, NumPy, BeautifulSoup, Selenium  
+- **Specialties**: Data Pipelines, Automation, ML/DL Modeling  
+
+---
+
+### 🌟 What I Do  
+- Architect data-driven solutions and deploy intelligent models.  
+- Automate workflows and data extraction tasks.  
+- Lead development for web, mobile, and scalable backend systems.  
+- Mentor aspiring tech enthusiasts, sharing knowledge to empower the community.  
+
+---
+
+### 📫 Let's Connect  
+- **WorknConnect Innovators**: [Instagram](https://www.instagram.com/worknconnectinnovators/)
+- **WorknConnect**: [Instagram](https://www.instagram.com/worknconnect/)
+- **WorknConnect Innovators**: [Facebook](https://www.facebook.com/profile.php?id=61563614937620)
+- **LinkedIn**: [Ali Jaan](https://www.linkedin.com/in/ali-jaan-75ab02253/)  
+- **Website**: [WorknConnect Innovators](https://wncinnovators.com)  
+- **GitHub**: You're already here – explore my projects below! 🚀  
        
    
-### Social media: 📡    
+### Contact: 📡    
 Join me on Whatsapp, if you have any queries or any work, then do contact me.
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923201540500)
