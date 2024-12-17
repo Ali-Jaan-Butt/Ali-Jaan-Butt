@@ -1,6 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ali-Jaan-Butt&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-# About Me:    
 
 ## 👋 Hello, I'm Muhammad Ali Jaan
 
