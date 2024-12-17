@@ -7,7 +7,7 @@ I'm Expert in Data Scraping, web scraping, web automation, app scraping, app aut
 I'm also expert in Web Development using Django. I have done many projects in Django.
 I have also expertise in app development and software development.
 
-Currently, I'm running a startup named "WorknConnect Innovators". In this startup, I have a team, we are building some of the projects that will be announced after development. Here is the website of our company [WorknConnect Innovators](wncinnovators.com)
+Currently, I'm running a startup named "WorknConnect Innovators". In this startup, I have a team, we are building some of the projects that will be announced after development. Here is the website of our company [WorknConnect Innovators](https://wncinnovators.com)
        
    
 ### Social media: 📡    
