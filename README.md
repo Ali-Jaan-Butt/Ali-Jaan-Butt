@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate tech leader and problem-solver, with expe
 ---
 
 ### 🚀 About Me  
-- **Founder of [WorknConnect](#)** – Bridging the gap between industry and academia through innovative real-world projects.  
+- **Founder of [WorknConnect](https://worknconnect.com)** – Bridging the gap between industry and academia through innovative real-world projects.  
 - **Director of WorknConnect Innovators** – Committed to creating collaborative spaces for skill development and innovation.  
 - **Automation & Extraction Expert** – I simplify complex workflows using Python and modern tools.  
 - **Django & Web Development Enthusiast** – From backend magic to building scalable apps, I enjoy solving problems that matter.  
