@@ -3,48 +3,52 @@
 
 ## 👋 Hello, I'm Muhammad Ali Jaan
 
-**Founder & Director | Data Scientist | Python Expert | ML & DL Enthusiast**  
+**Gen AI | Data Scientist | Python Expert | ML & DL Enthusiast**  
 
-Welcome to my GitHub! I'm a passionate tech leader and problem-solver, with expertise spanning **Data Science**, **Machine Learning (ML)**, **Deep Learning (DL)**, and **Web & Mobile Development**.  
+Welcome to my GitHub! I'm a passionate tech leader and problem-solver, with expertise spanning **Gen AI**, **Data Science**, **Machine Learning (ML)**, **Deep Learning (DL)**, and **Backend Development**.  
 
 ---
 
 ### 🚀 About Me  
 - **Founder of [WorknConnect](https://worknconnect.com)** – Bridging the gap between industry and academia through innovative real-world projects.  
-- **Director of WorknConnect Innovators** – Committed to creating collaborative spaces for skill development and innovation.  
+<!-- - **Director of WorknConnect Innovators** – Committed to creating collaborative spaces for skill development and innovation.   -->
 - **Automation & Extraction Expert** – I simplify complex workflows using Python and modern tools.  
 - **Django & Web Development Enthusiast** – From backend magic to building scalable apps, I enjoy solving problems that matter.  
-- **Mobile App Developer** – I craft intuitive mobile experiences to meet real-world challenges.  
+- **Machine Learning and Deep Learning Development** – Perform any kind of machine learning and deep learning tasks.  
+- **Gen AI Development** – Develop systems using RAG, LLMs and any kind of generative models and chatbots using NLP, Computer Vision etc.
 
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages**: Python, JavaScript, SQL  
-- **Frameworks**: Django, Flask, React Native  
-- **Tools & Libraries**: TensorFlow, Keras, Pandas, NumPy, BeautifulSoup, Selenium  
-- **Specialties**: Data Pipelines, Automation, ML/DL Modeling  
+- **Languages**: Python, SQL, JavaScript
+- **Frameworks**: Django, Flask, Fast-API, React
+- **Tools & Libraries**: TensorFlow, Keras, Pandas, NumPy, BeautifulSoup, Selenium, LLM, PyTorch, OpenCV
+- **Specialties**: Data Pipelines, Automation, ML/DL Modeling, Gen AI
 
 ---
 
 ### 🌟 What I Do  
-- Architect data-driven solutions and deploy intelligent models.  
-- Automate workflows and data extraction tasks.  
-- Lead development for web, mobile, and scalable backend systems.  
-- Mentor aspiring tech enthusiasts, sharing knowledge to empower the community.  
+- **Architect & Deploy Intelligent Systems** – From machine learning to Gen AI (LLMs, RAG, NLP, CV), I design and build impactful data-driven solutions.  
+- **Automate & Simplify Workflows** – Specialize in workflow automation, data extraction, and integration using Python and modern tools.  
+- **Lead Full-Stack Projects** – Drive development of scalable web, mobile, and backend systems with the right tech stack.  
+- **Mentor & Guide Innovators** – Support students and early-stage startups by shaping their tech strategies, guiding project execution, and building real-world solutions.
 
 ---
 
 ### 📫 Let's Connect  
-- **WorknConnect Innovators**: [Instagram](https://www.instagram.com/worknconnectinnovators/)
-- **WorknConnect**: [Instagram](https://www.instagram.com/worknconnect/)
+- **GitHub**: You're already here – explore my projects below! 🚀
+- **LinkedIn**: [Ali Jaan](https://www.linkedin.com/in/ali-jaan-75ab02253/)
 - **WorknConnect Innovators**: [Facebook](https://www.facebook.com/profile.php?id=61563614937620)
-- **LinkedIn**: [Ali Jaan](https://www.linkedin.com/in/ali-jaan-75ab02253/)  
-- **Website**: [WorknConnect Innovators](https://wncinnovators.com)  
-- **GitHub**: You're already here – explore my projects below! 🚀  
+- **Ali Jaan Butt**: [Instagram](https://www.instagram.com/ali_jaan_butt/)
+- **WorknConnect Innovators**: [Instagram](https://www.instagram.com/worknconnectinnovators/)
+- **WorknConnect**: [Instagram](https://www.instagram.com/worknconnect/)  
+- **Website**: [WorknConnect Innovators](https://wncinnovators.com)    
        
    
-### Contact: 📡    
-Join me on Whatsapp, if you have any queries or any work, then do contact me.
+### Contact: 📡  
+Contact me, if you have any queries or any work.
+
+[![Email Badge](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white\)](aliwsservices@gmail.com)
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923201540500)
 
@@ -53,17 +57,17 @@ Join me on Whatsapp, if you have any queries or any work, then do contact me.
 <div>
 
 ### Languages:
-| Python | JS |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+| Python | JS | SQL |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="55" height="55"/> |
 
   
 
 ### Best frameworks and main libraries for Python:
 
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV | Django | Tensorflow |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="55" height="55"/>|
+| PyTorch | Selenium | Numpy | Pandas | Sklearn | OpenCV | Django | Tensorflow | Keras |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/>|
 
 
 
