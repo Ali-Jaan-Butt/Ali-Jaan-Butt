@@ -11,12 +11,11 @@ Welcome to my GitHub! I'm a passionate tech leader and problem-solver, with expe
 
 ### 🚀 About Me  
 - **Founder of [WorknConnect](https://worknconnect.com)** – Bridging the gap between industry and academia through innovative real-world projects.  
-<!-- - **Director of WorknConnect Innovators** – Committed to creating collaborative spaces for skill development and innovation.   -->
 - **Automation & Extraction Expert** – I simplify complex workflows using Python and modern tools.  
 - **Django & Web Development Enthusiast** – From backend magic to building scalable apps, I enjoy solving problems that matter.  
 - **Machine Learning and Deep Learning Development** – Perform any kind of machine learning and deep learning tasks.  
 - **Gen AI Development** – Develop systems using RAG, LLMs and any kind of generative models and chatbots using NLP, Computer Vision etc.
-
+<!-- - **Director of WorknConnect Innovators** – Committed to creating collaborative spaces for skill development and innovation.   -->
 ---
 
 ### 🛠️ Tech Stack  
@@ -37,8 +36,8 @@ Welcome to my GitHub! I'm a passionate tech leader and problem-solver, with expe
 
 ### 📫 Let's Connect  
 - **GitHub**: You're already here – explore my projects below! 🚀
-- **LinkedIn**: [Ali Jaan](https://www.linkedin.com/in/ali-jaan-75ab02253/)
-- **WorknConnect Innovators**: [Facebook](https://www.facebook.com/profile.php?id=61563614937620)
+- **Ali Jaan**: [LinkedIn](https://www.linkedin.com/in/ali-jaan-75ab02253/)
+- **Ali Jaan**: [Facebook](https://www.facebook.com/profile.php?id=61563614937620)
 - **Ali Jaan Butt**: [Instagram](https://www.instagram.com/ali_jaan_butt/)
 - **WorknConnect Innovators**: [Instagram](https://www.instagram.com/worknconnectinnovators/)
 - **WorknConnect**: [Instagram](https://www.instagram.com/worknconnect/)  
@@ -48,7 +47,7 @@ Welcome to my GitHub! I'm a passionate tech leader and problem-solver, with expe
 ### Contact: 📡  
 Contact me, if you have any queries or any work.
 
-[![Email Badge](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white\)](aliwsservices@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliwsservices@gmail.com)
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923201540500)
 
